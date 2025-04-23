@@ -64,7 +64,7 @@ Each combination of:
 - **Bar Plot:** Silhouette scores of all models
   <p align="center">
   <img src="graph2.png" alt="Cluster PCA Plot" width="500"/>
-</p> 
+  </p> 
 - PCA 2D Plots: Top 3 clustering configurations visualized
 
 <p align="center">
