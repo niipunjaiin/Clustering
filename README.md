@@ -65,8 +65,8 @@ Each combination of:
 - <p align="center">
   <img src="graph2.png" alt="Cluster PCA Plot" width="500"/>
 </p>
-- **PCA 2D Plots:** Top 3 clustering configurations visualized
-- <p align="center">
+#### PCA 2D Plots: Top 3 clustering configurations visualized
+<p align="center">
   <img src="graph1.png" alt="Cluster PCA Plot" width="500"/>
 </p>
 
